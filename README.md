@@ -8,4 +8,5 @@
 | 927  |        三等分         |     threeEqualParts.cpp      |
 | 1145 |    二叉树着色游戏     |   btreeGameWinningMove.cpp   |
 | 1337 | 矩阵中战斗力最弱的K行 |       kWeakestRows.cpp       |
+| 1738 | 找出第K大的异或坐标值 |     kthLargestValue.cpp      |
 
