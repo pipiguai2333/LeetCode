@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="btreeGameWinningMove.cpp" />
     <ClCompile Include="isPalindrome.cpp" />
+    <ClCompile Include="kthLargestValue.cpp" />
     <ClCompile Include="kWeakestRows.cpp" />
     <ClCompile Include="numberOfArithmeticSlices.cpp" />
     <ClCompile Include="threeEqualParts.cpp" />
