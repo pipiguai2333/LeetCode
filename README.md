@@ -3,7 +3,8 @@
 
 | 题号 |         题目          |           .cpp文件           |
 | :--: | :-------------------: | :--------------------------: |
-| 234  |       回文链表        |       isPalindrome.cpp       |
+|  9   |       回文整数        |   isPalindrome回文整数.cpp   |
+| 234  |       回文链表        |   isPalindrome回文链表.cpp   |
 | 413  |     等差数列划分      | numberOfArithmeticSlices.cpp |
 | 927  |        三等分         |     threeEqualParts.cpp      |
 | 1145 |    二叉树着色游戏     |   btreeGameWinningMove.cpp   |
